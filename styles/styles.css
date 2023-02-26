@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(254, 254, 254);
+}
+h1 {
+    color: crimson;
+}
+
+ul {
+    margin-top: -15px;
+    margin-left: -20px;
+    text-decoration: underline;
+}
+
+.name{
+    font-weight: bold;
+    color: brown;
+    font-size: larger;
+}
+
+.interests{
+    color: rgb(0, 193, 193);
+}
+
+.courses{
+    color: purple;
+}
+
+.intro{
+    background-color: rgb(255, 97, 97);
+    border-radius: 10px;
+    padding: 5px;
+    width: 800px;
+    text-align: center;
+    margin-left: 350px;
+    margin-top: 70px;
+}
+
